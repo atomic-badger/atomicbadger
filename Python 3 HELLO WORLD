@@ -1,4 +1,4 @@
-# this prints out a basic hello world statement
+# this prints out a basic hello world statement in Python 3
 # coded by Dwayne Brock
 
 print('HELLO WORLD!!!')
