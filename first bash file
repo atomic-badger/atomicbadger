@@ -1,3 +1,5 @@
 #!/bin/bash
 
 python3 /home/dwayne/Documents/firstprogram.py
+
+# be sure to change permissions as needed to make files executable. chmod +x in Ubuntu 20.04
